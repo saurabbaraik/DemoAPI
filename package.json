@@ -1,0 +1,23 @@
+{
+  "name": "demoapi",
+  "version": "1.0.0",
+  "description": "Test file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabbaraik/DemoAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabbaraik/DemoAPI/issues"
+  },
+  "homepage": "https://github.com/saurabbaraik/DemoAPI#readme",
+  "dependencies": {
+    "newman": "^5.3.1",
+    "newman-reporter-htmlextra": "^1.22.7"
+  }
+}
